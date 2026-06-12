@@ -8,6 +8,7 @@
   },
   "homepage": "https://www.midpage.ai",
   "repository": "https://github.com/midpage-ai/litigation-skills",
+  "license": "MIT",
   "keywords": [
     "legal",
     "litigation",
