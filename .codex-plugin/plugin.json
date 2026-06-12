@@ -1,0 +1,26 @@
+{
+  "name": "midpage-litigation",
+  "version": "0.2.0",
+  "description": "Litigation skills built on the Midpage MCP: draft briefs, research memos, and litigation updates; manage case folders; cite-check filings — every citation verified against primary law.",
+  "author": {
+    "name": "midpage",
+    "url": "https://www.midpage.ai"
+  },
+  "homepage": "https://www.midpage.ai",
+  "repository": "https://github.com/midpage-ai/litigation-skills",
+  "keywords": [
+    "legal",
+    "litigation",
+    "legal-research",
+    "case-law",
+    "cite-check",
+    "briefs",
+    "memos"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Midpage Litigation",
+    "shortDescription": "Draft, research, and cite-check litigation work product with Midpage's case-law tools."
+  }
+}
