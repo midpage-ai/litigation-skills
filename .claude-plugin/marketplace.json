@@ -1,0 +1,15 @@
+{
+  "name": "midpage",
+  "description": "Official midpage plugin marketplace — litigation skills backed by the Midpage legal-research MCP.",
+  "owner": {
+    "name": "midpage",
+    "url": "https://www.midpage.ai"
+  },
+  "plugins": [
+    {
+      "name": "midpage-litigation",
+      "source": "./",
+      "description": "Litigation skills built on the Midpage MCP: draft briefs, research memos, and litigation updates; cite-check filings — every citation verified against primary law."
+    }
+  ]
+}
