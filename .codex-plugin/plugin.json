@@ -21,6 +21,19 @@
   "mcpServers": "./.mcp.json",
   "interface": {
     "displayName": "Midpage Litigation",
-    "shortDescription": "Draft, research, and cite-check litigation work product with Midpage's case-law tools."
+    "shortDescription": "Draft, research, and cite-check litigation work product with Midpage's case-law tools.",
+    "longDescription": "Midpage Litigation provides Codex skills for litigation work product, including court-ready briefs, objective research memoranda, public litigation updates, and cite-checking. The skills use Midpage's case-law and docket tools so legal assertions, record facts, and citations are verified against primary sources.",
+    "developerName": "midpage",
+    "category": "Productivity",
+    "capabilities": [
+      "Legal research",
+      "Document drafting",
+      "Citation verification"
+    ],
+    "defaultPrompt": [
+      "Draft a litigation brief with verified citations.",
+      "Write an objective legal research memo.",
+      "Cite-check this filing against primary law."
+    ]
   }
 }
